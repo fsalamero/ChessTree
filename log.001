@@ -1,0 +1,18 @@
+
+Crafty v20.9
+
+White(1): 
+White(1): e4e4
+Illegal move: e4e4
+White(1): e4
+              time used:  32.59
+              time surplus   0.00  time limit 29.83 (+0.00) (3:28)
+              depth   time  score   variation (1)
+                8     6.91   0.08   1. ... Nc6 2. Nc3 Nf6 3. Nf3 d5 4.
+                                    e5 Ne4 5. Bb5
+                8->   9.85   0.08   1. ... Nc6 2. Nc3 Nf6 3. Nf3 d5 4.
+                                    e5 Ne4 5. Bb5
+                9    12.53   0.00   1. ... Nc6 2. Nc3 Nf6 3. d4 d5 4. e5
+                                    Ne4 5. Nxe4 dxe4
+                9->  15.14   0.00   1. ... Nc6 2. Nc3 Nf6 3. d4 d5 4. e5
+                                    Ne4 5. Nxe4 dxe4
